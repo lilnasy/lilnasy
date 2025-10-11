@@ -9,4 +9,4 @@ After becoming a serial contributor to Astro, I was invited into the core team, 
 I am currently working on my personal website: [arsh.sh](https://arsh.sh/).
 
 
-Let me help your team! You can reach out to me at hi@arsh.sh, or [schedule a call](https://calendly.com/meet-arsh/video).
+Let me help your team! You can reach out to me at hi@arsh.sh, or [schedule a call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3ChoWFCFbrieMOvlK_JKikkb5Lky0DQ20HBwWA2e9WfEIY5K1NKk4Iul2y3pTvwHwrZ2Oy-6ba).
