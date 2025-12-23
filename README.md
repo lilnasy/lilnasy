@@ -8,6 +8,6 @@ I have also built [MagicServer](https://magicserver.arsh.sh/docs): easy, automat
 
 I write blog posts about my fun experiments in frontend, backend, and devtool engineering. Here's one on [why and how I built my own React metaframework](https://arsh.sh/posts/why-i-built-my-own-metaframework/).
 
-_Interested in what I do? I am currently open to full-time roles in developer tooling and ecosystem engineering._
+_Interested in what I do? I am currently open to full-time roles in full-stack, developer tooling and ecosystem engineering._
 
 **[Let's schedule an introduction!](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3ChoWFCFbrieMOvlK_JKikkb5Lky0DQ20HBwWA2e9WfEIY5K1NKk4Iul2y3pTvwHwrZ2Oy-6ba)**
