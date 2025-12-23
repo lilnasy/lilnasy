@@ -8,7 +8,7 @@ I am currently making [Oxlint](https://voidzero.dev/posts/announcing-oxlint-1-st
 
 I have also built [MagicServer](https://magicserver.arsh.sh/docs): easy, automatic HTTPS for Node.js applications. Issues and rotates X.509 certificates provided by Let's Encrypt and other Certificate Authorities. Built with a modern and robust ACME client (RFC 8555) written specifically for MagicServer!
 
-I write about my fun experiments in frontend, backend, and devtool engineering. Here's one on [why and how I built my own React metaframework](https://arsh.sh/posts/why-i-built-my-own-metaframework/).
+I write blog posts about my fun experiments in frontend, backend, and devtool engineering. Here's one on [why and how I built my own React metaframework](https://arsh.sh/posts/why-i-built-my-own-metaframework/).
 
 _Interested in what I do? I am currently open to full-time roles in developer tooling and ecosystem engineering._
 
